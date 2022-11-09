@@ -54,4 +54,7 @@ li.todo-item {
 }
 .btn{
     padding: 4px;
+    border-radius: 4px;
+    outline: none;
+    border: 1px solid #959595;
 }
