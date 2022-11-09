@@ -25,6 +25,7 @@ body {
     flex: 1 1 0%;
     width: 84%;
     margin-right: 4px;
+    border-radius: 6px;
 }
 .btn-add{
     padding: 12px 14px;
@@ -33,6 +34,7 @@ body {
     border: none;
     color: #fff;
     cursor: pointer;
+    border-radius: 4px;
 }
 .todo-list li{
     list-style-type: none;
